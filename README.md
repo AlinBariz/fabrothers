@@ -78,7 +78,7 @@ To run locally, you can clone this repository directly into the editor of your c
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+ 80% of written content was taken from Workbuster
 
 ### Media
 - The photos used in this site were obtained from ...
