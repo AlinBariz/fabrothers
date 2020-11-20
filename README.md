@@ -4,14 +4,14 @@ This website is designed for potential business and customers to show  the range
  
 ## UX
  ### User stories
-*As an owner of the site, I want visitors to know the name of the business and the services it offers.
-*As an owner of the site, I want visitors to be able to contact me for any enquiries.
-*As an owner of the site, I want visitors to see what's included for the services i offer 
-*As a site user, I want to know the name of company.
-*As a site user, I want to know why should i choose them as my cleaning company.
-*As a site user, I want to know the address and opening times.
-*As a site user, I want to know what type of service they offer and what is  included.
-*As a site user, I want to be able to contact them.
+* As an owner of the site, I want visitors to know the name of the business and the services it offers.
+* As an owner of the site, I want visitors to be able to contact me for any enquiries.
+* As an owner of the site, I want visitors to see what's included for the services i offer 
+* As a site user, I want to know the name of company.
+* As a site user, I want to know why should i choose them as my cleaning company.
+* As a site user, I want to know the address and opening times.
+* As a site user, I want to know what type of service they offer and what is  included.
+* As a site user, I want to be able to contact them.
 
 ### Strategy Plane
 
@@ -26,8 +26,12 @@ For costumers, I wanted to give them a overview of the business and the services
 In the Header of Landing page i wanted to give the visitors a few reasons why they should choose this cleaning company.
 
 ### Skeleton Plane
-
-
+Wireframe
+* https://github.com/AlinBariz/fabrothers/blob/682b8abf6cc97187511c3048609fca3004110c3e/wireframe/about%20us%20page.png
+* https://github.com/AlinBariz/fabrothers/blob/682b8abf6cc97187511c3048609fca3004110c3e/wireframe/contact%20page.png
+* https://github.com/AlinBariz/fabrothers/blob/682b8abf6cc97187511c3048609fca3004110c3e/wireframe/landing%20page.png
+* https://github.com/AlinBariz/fabrothers/blob/682b8abf6cc97187511c3048609fca3004110c3e/wireframe/services%20info%20page.png
+* 
 
 ### Surface
 
@@ -35,19 +39,19 @@ The white and black was chosen to create a easy and minimalist user-friendly sit
 
 ## Features
 
-*Responsive and functional on all device sizes
-*Interactive
+* Responsive and functional on all device sizes
+* Interactive
 
 ### Features Left to Implement
 - Another feature idea
 
 ## Technologies
 
-HTML
-CSS
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
-## Testing
+
 
 
 
@@ -60,11 +64,13 @@ To run locally, you can clone this repository directly into the editor of your c
 ## Credits
 
 ### Content
- 80% of written content was taken from Workbuster
+ 80% of written content was taken from Workbuster cleaning
 
 ### Media
-- The photos used in this site were obtained from ...
+images has been taken from this 2 websites
+
+* https://unsplash.com/
+* https://www.freepik.com/home
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
